@@ -1,2 +1,1 @@
-# simplex-method
-HW for Intro to Optimizations course at Innopolis University
+Just a simplex method implemented in rust as a homework.
